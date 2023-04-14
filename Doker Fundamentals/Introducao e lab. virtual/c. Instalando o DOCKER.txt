@@ -1,0 +1,11 @@
+https://docs.docker.com/engine/install/ubuntu/
+
+# curl -fsSL https://get.docker.com -o get-docker.sh
+# sh get-docker.sh
+
+
+
+Links de ajuda
+https://docs.docker.com/engine/reference/commandline/docker/ 
+
+https://programadriano.medium.com/principais-comandos-docker-f9b02e6944cd
